@@ -10,13 +10,11 @@ Un aspecto importante es identificar actores, ya que cada uno de ellos utilizar�
 
 Lo que ustedes deben producir para esta entrega son tres artefactos: un documento con los actores y principales casos de uso, los mockups que describan en forma esquemática las distintas páginas incluyendo la navegación entre ellas (usando flechas) y un modelo de datos preliminar en que aparezcan las principales entidades con los atributos más relevantes y la forma en que están asociados (1 a 1, 1 a N o N a N).
 
-Esta es la única entrega en que en lugar de código entregarán documentos – por supuesto, en PDF. **La entrega se realizará en un cuestionario en el SIDING**, donde tendrán que subir un archivo zip (*nombredegrupo.zip*) y los tres documentos (en PDF) en su interior:
+Esta es la única entrega en que en lugar de código entregarán documentos – por supuesto, en PDF. **La entrega se realizará en su repositorio**, donde tendrán que subir (en la ruta `/docs/entrega1/`) los tres documentos (en PDF) en su interior:
 
 * Un documento con los actores y casos de uso
 * Otro con los mockups y la navegación
 * Uno con el modelo de datos.
-
-Adicionalmente, todo tiene que ser subido igualmente a su repositorio Github que les crearemos y les enviaremos prontamente.
 
 Sólo para clarificar, **no se aceptarán**:
 
