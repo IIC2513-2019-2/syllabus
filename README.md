@@ -28,6 +28,15 @@
 
 | Nombre                | Github        | Email         |
 |:--------------------- |:--------------|:--------------|
+| Vicente Águila        |  [@vaguila95](https://github.com/vaguila95)          | vlaguila@uc.cl |
+| Vicente Aguilera      |  [@vjaguilera](https://github.com/vjaguilera)        | vjaguilera@uc.cl |
+| Felipe Apablaza       |  [@FelipeApablaza](https://github.com/FelipeApablaza)| feapablaza@uc.cl |
+| Gabriel Faundez       |  [@FarDust](https://github.com/FarDust)              | gnfaundez@uc.cl |
+| Nicolás Freudenberg   |  [@nrfreudenberg](https://github.com/nrfreudenberg)  | nrfreudenberg@uc.cl|
+| Wenyi He              |  [@cmp831](https://github.com/cmp831)                | whe1@uc.cl |
+| Yoav Navón            |  [@yoavnavon](https://github.com/yoavnavon)          | yanavon@uc.cl |
+| Pablo Olea            |  [@Polea012](https://github.com/Polea012)            | pgolea@uc.cl |
+| Andre Simon           |  [@asimonv](https://github.com/asimonv)              | aasimon@uc.cl |
 
 
 ## Objetivos
