@@ -10,6 +10,45 @@ Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará
 
 | Equipo  | Proyecto | Ayudante |
 |:---------------------- |:---------------------------| :------|
+| Webo Duro|  [Adoptame](https://drive.google.com/open?id=1svY6QeOVUs4-iel3zfvNUdxLazaw8M-OmcdDo2yFcHc) | Vicente Águila | 
+| The Game|  [Adoptame](https://drive.google.com/open?id=1svY6QeOVUs4-iel3zfvNUdxLazaw8M-OmcdDo2yFcHc) | Vicente Águila | 
+| Roundspace|  [ServicioSOS](https://drive.google.com/open?id=1Gjl6CotHxHBdAfyvdhE6bBo33zzyRo9plGAS8Pta5rk) | Vicente Águila | 
+| Webnautas|  [ServicioSOS](https://drive.google.com/open?id=1Gjl6CotHxHBdAfyvdhE6bBo33zzyRo9plGAS8Pta5rk) | Vicente Águila | 
+| WWW | [Clothex](https://drive.google.com/open?id=1gqJo_xSLqUhFRFT9HK8xPFrWahGWk9ShrtENBCbrviw) | Vicente Aguilera |
+| Webdev | [Clothex](https://drive.google.com/open?id=1gqJo_xSLqUhFRFT9HK8xPFrWahGWk9ShrtENBCbrviw) | Vicente Aguilera |
+| HechoEnGuix | [Clothex](https://drive.google.com/open?id=1gqJo_xSLqUhFRFT9HK8xPFrWahGWk9ShrtENBCbrviw) | Vicente Aguilera |
+| Noxus | [Clothex](https://drive.google.com/open?id=1gqJo_xSLqUhFRFT9HK8xPFrWahGWk9ShrtENBCbrviw) | Vicente Aguilera |
+| Grupo667 | [Playdr](https://drive.google.com/open?id=1JBQRdtftfFHevMuFpzo6SfYmw2Gc9HZ57Vr1uuU7yeQ) | Felipe Apablaza |
+| W3B-CDF | [Playdr](https://drive.google.com/open?id=1JBQRdtftfFHevMuFpzo6SfYmw2Gc9HZ57Vr1uuU7yeQ) | Felipe Apablaza |
+| TTJ-2513 | [Sikleta](https://drive.google.com/open?id=1qMSRnA2RFYm9b7b8ayRCxAenEau3r9g_Ku_SsCR7t1Q) | Felipe Apablaza |
+| TecNexus | [Playdr](https://drive.google.com/open?id=1JBQRdtftfFHevMuFpzo6SfYmw2Gc9HZ57Vr1uuU7yeQ) | Felipe Apablaza |
+| Vinland Bridge | [Sikleta](https://drive.google.com/open?id=1qMSRnA2RFYm9b7b8ayRCxAenEau3r9g_Ku_SsCR7t1Q) | Felipe Apablaza |
+| Noobjs | [ReservaTuMesa](https://drive.google.com/open?id=1_d0OZKRFcLK_2u-nA2-tT6JCdV6QHAiV1n9N40ad7Ls) | Gabriel Faundez |
+| serjuanacho123 | [Consejo?!](https://drive.google.com/open?id=1VGAIbAbFfb7EV6OJvTMeqzWvJE814gmSflaDD-OS1O4) | Gabriel Faundez |
+| Dream Team | [ReservaTuMesa](https://drive.google.com/open?id=1_d0OZKRFcLK_2u-nA2-tT6JCdV6QHAiV1n9N40ad7Ls) | Gabriel Faundez |
+| WeBuilders | [ReservaTuMesa](https://drive.google.com/open?id=1_d0OZKRFcLK_2u-nA2-tT6JCdV6QHAiV1n9N40ad7Ls) | Gabriel Faundez |
+| Espakim | [ServicioSOS](https://drive.google.com/open?id=1Gjl6CotHxHBdAfyvdhE6bBo33zzyRo9plGAS8Pta5rk) | Nicolás Freudenberg |
+| mejoremos siding | [ServicioSOS](https://drive.google.com/open?id=1Gjl6CotHxHBdAfyvdhE6bBo33zzyRo9plGAS8Pta5rk) | Nicolás Freudenberg |
+| droptables | [ServicioSOS](https://drive.google.com/open?id=1Gjl6CotHxHBdAfyvdhE6bBo33zzyRo9plGAS8Pta5rk) | Nicolás Freudenberg |
+| 42unity | [Adoptame](https://drive.google.com/open?id=1svY6QeOVUs4-iel3zfvNUdxLazaw8M-OmcdDo2yFcHc) | Nicolás Freudenberg |
+| DAB | [Adoptame](https://drive.google.com/open?id=1svY6QeOVUs4-iel3zfvNUdxLazaw8M-OmcdDo2yFcHc) | Nicolás Freudenberg |
+| Casitas | [FinancePod](https://drive.google.com/open?id=1phkt1i9tyBjcfr6NWFuK4jR3Q2nPmjQo-Tliz1d6qwg) | Wenyi He |
+| U+1F578 | [FinancePod](https://drive.google.com/open?id=1phkt1i9tyBjcfr6NWFuK4jR3Q2nPmjQo-Tliz1d6qwg) | Wenyi He |
+| pakico | [FinancePod](https://drive.google.com/open?id=1phkt1i9tyBjcfr6NWFuK4jR3Q2nPmjQo-Tliz1d6qwg) | Wenyi He |
+| ancelu | [FinancePod](https://drive.google.com/open?id=1phkt1i9tyBjcfr6NWFuK4jR3Q2nPmjQo-Tliz1d6qwg) | Wenyi He |
+| Web`<ones/>` | [Sikleta](https://drive.google.com/open?id=1qMSRnA2RFYm9b7b8ayRCxAenEau3r9g_Ku_SsCR7t1Q) | Yoav Navon |
+| Genius | [Sikleta](https://drive.google.com/open?id=1qMSRnA2RFYm9b7b8ayRCxAenEau3r9g_Ku_SsCR7t1Q) | Yoav Navon |
+| Manico | [Sikleta](https://drive.google.com/open?id=1qMSRnA2RFYm9b7b8ayRCxAenEau3r9g_Ku_SsCR7t1Q) | Yoav Navon |
+| PanConWEB-o | [Playdr](https://drive.google.com/open?id=1JBQRdtftfFHevMuFpzo6SfYmw2Gc9HZ57Vr1uuU7yeQ) | Yoav Navon |
+| Roberto Bew | [Playdr](https://drive.google.com/open?id=1JBQRdtftfFHevMuFpzo6SfYmw2Gc9HZ57Vr1uuU7yeQ) | Yoav Navon |
+| LightLine | [Consejo?!](https://drive.google.com/open?id=1VGAIbAbFfb7EV6OJvTMeqzWvJE814gmSflaDD-OS1O4) | Pablo Olea |
+| Free Walking Tour | [ReservaTuMesa](https://drive.google.com/open?id=1_d0OZKRFcLK_2u-nA2-tT6JCdV6QHAiV1n9N40ad7Ls) | Pablo Olea |
+| Webo | [Consejo?!](https://drive.google.com/open?id=1VGAIbAbFfb7EV6OJvTMeqzWvJE814gmSflaDD-OS1O4) | Pablo Olea |
+| javaMasters | [Consejo?!](https://drive.google.com/open?id=1VGAIbAbFfb7EV6OJvTMeqzWvJE814gmSflaDD-OS1O4) | Pablo Olea |
+| hello_world | [Knitter](https://drive.google.com/open?id=1qEJQAzgdogRWC--ZZBP5zRYKga9V6-4dnong4UvXymk) | Andre Simon |
+| Dream Team 2 | [Knitter](https://drive.google.com/open?id=1qEJQAzgdogRWC--ZZBP5zRYKga9V6-4dnong4UvXymk) | Andre Simon |
+| web-hitos | [Knitter](https://drive.google.com/open?id=1qEJQAzgdogRWC--ZZBP5zRYKga9V6-4dnong4UvXymk) | Andre Simon |
+| Los profetas | [Knitter](https://drive.google.com/open?id=1qEJQAzgdogRWC--ZZBP5zRYKga9V6-4dnong4UvXymk) | Andre Simon |
 
 
 Pueden ver los datos para poder contactar a su ayudante en el [programa del curso](../../../#equipo)
