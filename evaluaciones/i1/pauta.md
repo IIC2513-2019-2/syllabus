@@ -6,7 +6,7 @@ Responde, de forma precisa, las siguientes preguntas:
 
 1. (2 pts) Indica la diferencia entre el posicionamiento `fixed` y `absolute`.
 
-**R:** `absolute` es una posición fija con respecto al sitio completo, `fixed` es un posicionamiento relativo al _viewport_
+**R:** `absolute` es una posición fija, por ejemplo, con respecto al sitio completo (en caso de que no haya un ancestro posicionado), `fixed` es un posicionamiento relativo al _viewport_.
 
 2. (2 pts) ¿Qué selector es más específico?¿Por qué? `.paragraph a.special` y `#paragraph a.special`
 
