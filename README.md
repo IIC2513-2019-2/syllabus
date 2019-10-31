@@ -108,9 +108,9 @@ La nota final considera las interrogaciones, el examen práctico y el proyecto d
 | Evaluación           | Fecha               |
 |:-------------------- |:--------------------|
 | I1                   |  27 de septiembre   |
-| I2                   |  24 de octubre      |
-| I3                   |  15 de noviembre    |
-| Ex                   |  28 de noviembre    |
+| I2                   |  14 de noviembre    |
+| I3                   |  28 de noviembre    |
+| Ex                   |  05 de diciembre    |
 
 Durante el semestre podrían haber evaluaciones y/o acividades, con o sin previo aviso, que aunque no serán consideradas directamente en la nota final, podrían significar bonificaciones en alguna de las evaluaciones listadas anteriormente.
 

@@ -61,8 +61,8 @@ Las entregas tendrán una duración aproximada de 2 semanas cada una. A continua
 * **[Entrega 2](enunciados/entrega2.md):** 13 de Septiembre, 23:59 hrs.
 * **[Entrega 3](enunciados/entrega3.md):** 4 de Octubre, 23:59 hrs.
 * **[Entrega 4](enunciados/entrega4.md):** 18 de Octubre, 23:59 hrs.
-* **[Entrega 5](enunciados/entrega5.md):** 4 de Noviembre, 23:59 hrs.
-* **[Entrega 6](enunciados/entrega6.md):** 16 de Noviembre, 23:59 hrs.
+* **[Entrega 5](enunciados/entrega5.md):** 8 de Noviembre, 23:59 hrs.
+* **[Entrega 6](enunciados/entrega6.md):** 22 de Noviembre, 23:59 hrs.
 
 ## Indicaciones
 
