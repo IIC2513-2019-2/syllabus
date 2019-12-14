@@ -79,8 +79,8 @@ class Ophthalmologist extends Medic {
 
 ### Pauta
 
-* 4 pts clase padre
-* 2 pt por cada clase hija (3). Si define una función que debe estar definida en la clase padre 0 pt.
+* 6 pts clase padre
+* 3 pt por cada clase hija (3). Si define una función que debe estar definida en la clase padre 0 pt.
 
 
 ## Pregunta 2 (15 pts): Noticias
