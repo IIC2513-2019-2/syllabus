@@ -124,7 +124,6 @@ Indica correctamente la salida de este programa. La función `consoleLogWithoutE
 ```js
 consoleLogWithoutError('Iniciando programa...')
 var y = 3;
-const numberTimesX = (p) => p * x;
 barking(2);
 consoleLogWithoutError(addTwo(2));
 consoleLogWithoutError(x);
@@ -141,7 +140,6 @@ const addTwo = (number) => number + 2;
 consoleLogWithoutError(addTwo(x));
 consoleLogWithoutError(y);
 consoleLogWithoutError(x);
-consoleLogWithoutError(numberTimesX(y));
 
 var x;
 consoleLogWithoutError('Terminando programa...')
@@ -158,12 +156,11 @@ undefined
 5
 1
 3
-3
 Terminando programa...
 ```
 ### Pauta
 
-* 1.5 pts por output correcto. Esto incluye que sea en una secuencia correcta, se puede interrumpir en algún momento y luego retomarla.
+* 2 pts por output correcto, salvo el primero y último (0,5 pts cada uno). Esto incluye que sea en una secuencia correcta, se puede interrumpir en algún momento y luego retomarla.
 
 ## Pregunta 3 (15 pts): Noticias
 
