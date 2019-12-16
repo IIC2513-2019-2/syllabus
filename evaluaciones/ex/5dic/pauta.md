@@ -60,7 +60,7 @@ export default class SignIn extends Component {
 
   isFormValid() {
     const { email, password } = this.state;
-    if (!password || !email || email.endsWith('@uc.cl')) {
+    if (!password || !email || !email.endsWith('@uc.cl')) {
       return false;
     }
     return true;
