@@ -407,6 +407,12 @@ Para los que les quedó gustando React y quieren seguir por este camino, les dej
 
 [Solución](https://codesandbox.io/s/dazzling-framework-zn97h)
 
+### Solución III (con Hooks API + async/await)
+
+La idea de utilizar [hooks](https://reactjs.org/docs/hooks-reference.html) es que ya no es necesario utilizar classes y lifecycle events como `componentDidMount`, lo cual proporciona mejor legibilidad a tu código y que sea menos *error prone*.
+
+[Solución](https://codesandbox.io/s/busy-bird-97wp4)
+
 ### Pauta
 
 * 5 pts cargar la información correctamente
