@@ -401,6 +401,12 @@ export default class CarModels extends Component {
 }
 ```
 
+### Solución II (con Suspense, sin Class Components)
+
+Para los que les quedó gustando React y quieren seguir por este camino, les dejo un codesanbox donde pueden encontrar la misma solución, pero utilizando APIs más actuales como lo es [Suspense](https://reactjs.org/docs/concurrent-mode-suspense.html).
+
+[Solución](https://codesandbox.io/s/dazzling-framework-zn97h)
+
 ### Pauta
 
 * 5 pts cargar la información correctamente
